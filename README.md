@@ -79,7 +79,7 @@
             <label for="name">Enter your name to join the game:</label>
             <input type="text" id="name" name="name" placeholder="Enter your name here" required>
             <br><br>
-            <button onclick="submitName()">Join Squid Game</button>
+            <button onclick="submitName()">Join condo Game</button>
         </div>
     </div>
 
